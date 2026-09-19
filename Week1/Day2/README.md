@@ -36,3 +36,10 @@ Learn how to manipulate and analyze data using Pandas.
 python pandas_basics.py
 python pandas_operations.py
 ```
+
+## Learning Outcomes
+
+- Learned to work with Pandas DataFrames.
+- Practiced filtering, grouping, merging, and pivot tables.
+- Exported processed data to CSV and Parquet formats.
+- Strengthened Git workflow using commits and pushes.
