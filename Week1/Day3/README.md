@@ -13,3 +13,10 @@
 - employees.csv
 - cleaned_employees.csv
 - data_cleaning.py
+
+## Learning Outcomes
+
+- Learned how to load CSV data using Pandas.
+- Inspected dataset structure and missing values.
+- Cleaned missing data using mean values.
+- Exported the cleaned dataset for further analysis.
