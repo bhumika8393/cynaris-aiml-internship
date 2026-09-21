@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Course,Marks,Attendance
+101,Aarav,20,Male,AIML,89,92
+102,Diya,21,Female,CSE,92,95
+103,Rohan,20,Male,AIML,78,80
+104,Ananya,22,Female,ISE,95,97
+105,Vikram,21,Male,CSE,88,90
+106,Priya,20,Female,AIML,91,96
+107,Arjun,22,Male,CSE,84,85
+108,Neha,21,Female,ISE,87,91
+109,Karan,20,Male,AIML,76,79
+110,Sneha,22,Female,CSE,90,94
