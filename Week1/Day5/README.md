@@ -25,3 +25,10 @@ Visualize student data using Matplotlib and Seaborn.
 - student_visualization.csv
 - requirements.txt
 - plots/
+
+## Learning Outcomes
+
+- Learned to visualize data using Matplotlib and Seaborn.
+- Created multiple chart types for exploratory analysis.
+- Understood how visualizations reveal patterns in datasets.
+- Practiced saving plots as image files.
