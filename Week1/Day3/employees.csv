@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Age
+1,Alice,HR,50000,28
+2,Bob,IT,,30
+3,Charlie,Finance,65000,
+4,David,IT,70000,35
+5,Eva,HR,52000,29
+6,Frank,Finance,,32
+7,Grace,IT,72000,31
+8,Henry,HR,51000,
+9,Ivy,Finance,68000,34
+10,Jack,IT,75000,33
