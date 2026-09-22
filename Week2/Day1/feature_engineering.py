@@ -177,4 +177,5 @@ plt.savefig("before_after_scaling.png")
 
 plt.show()
 
+
 print("\nGraph saved as before_after_scaling.png")
