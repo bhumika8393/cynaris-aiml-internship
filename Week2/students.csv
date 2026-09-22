@@ -1,0 +1,11 @@
+StudentID,Gender,Course,Attendance,Marks
+101,Male,AIML,92,88
+102,Female,CSE,85,91
+103,Male,ISE,78,76
+104,Female,AIML,95,94
+105,Male,CSE,81,82
+106,Female,ISE,88,85
+107,Male,AIML,90,89
+108,Female,CSE,83,87
+109,Male,ISE,75,73
+110,Female,AIML,97,96
