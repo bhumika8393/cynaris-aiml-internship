@@ -1,69 +1,88 @@
-# Cynaris AI/ML Internship
+# Week 4 – Machine Learning Model Evaluation & Deployment
 
-This repository contains my AI/ML internship assignments completed during the Cynaris Solutions Internship Program.
+This week focuses on evaluating machine learning models, reducing overfitting, serializing trained models, deploying them as REST APIs using FastAPI, and building a complete classification project.
 
-## Week 1
+---
 
-- NumPy Fundamentals
-- Pandas
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
+## Day 1 – Model Evaluation Metrics
 
-## Week 2
-
-- Data Preprocessing
-- Feature Engineering
-- Encoding Techniques
-- Data Pipelines
-
-## Week 3
-
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- SVM
-- KNN Classification
-
-## Week 4
-
-### Day 1
-
-Model Evaluation Metrics
-
+### Topics Covered
 - Accuracy
 - Precision
 - Recall
 - F1 Score
-- ROC-AUC
+- Confusion Matrix
+- ROC Curve
+- ROC-AUC Score
 
-### Day 2
+### Files
+- `model_evaluation_metrics.py`
+- `evaluation_results.csv`
+- `confusion_matrix.png`
+- `roc_curve.png`
 
-Bias-Variance Tradeoff
+---
 
-- L1 Regularization
-- L2 Regularization
+## Day 2 – Bias-Variance Tradeoff & Regularization
+
+### Topics Covered
+- Bias vs Variance
+- Overfitting
+- Underfitting
+- L1 Regularization (Lasso)
+- L2 Regularization (Ridge)
 - Hyperparameter Tuning
 
-### Day 3
+### Files
+- `bias_variance_regularization.py`
+- `model_comparison.csv`
+- `regularization_accuracy.png`
 
-Model Serialization
+---
 
+## Day 3 – Model Serialization
+
+### Topics Covered
 - Pickle
 - Joblib
-- Saving and Loading ML Models
+- Saving Trained Models
+- Loading Saved Models
+- Model Prediction
 
-## Technologies Used
+### Files
+- `model_serialization.py`
+- `logistic_model.pkl`
+- `logistic_model.joblib`
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Joblib
-- Pickle
-- Git & GitHub
+---
 
-## Author
+## Day 4 – FastAPI Model Serving
 
-**Bhumika K R**
+### Topics Covered
+- FastAPI
+- REST API Development
+- Model Serving
+- Prediction Endpoint
+
+### Files
+- `app.py`
+- `train_model.py`
+- `logistic_model.joblib`
+
+---
+
+## Day 5 – Sentiment Classifier (Capstone)
+
+### Topics Covered
+- Logistic Regression
+- Random Forest Classifier
+- Model Comparison
+- Classification Report
+- Confusion Matrix
+- ROC Curve
+
+### Files
+- `sentiment_classifier.py`
+- `outputs/`
+
+---
